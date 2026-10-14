@@ -2,7 +2,7 @@
 
 Hello! My name is Raio. I study at the University of Washington. This page says a little about me.
 
-![Me|300](assets/whale.png "A profile picture drawing of Raio")
+<img src="assets/whale.png" width="300">
 
 ## Academics
 
@@ -23,13 +23,14 @@ I've been a CS student for 4 years. The following table summarizes my experience
 |---------:|------------|
 | Java   | Experienced in several coursework, frequently applied in TA work    |
 | TS/JS | Authored many full stack web pages |
-|  HTML    | Authored many web pages    |
-| Python | Infrequently used for personal tools |
-|  SQL     | Moderate coursework experience       |
+|  HTML    | Authored many full stack web pages    |
+| Python | Developed with for personal tools |
+|  SQL     | Significant coursework experience       |
 
-## Project Experience
+## Project / Work Experience
+- 6th time 331 Undergraduate Teaching Assistant
 - Used AWS Service and React to create a fullstack web application that tracked contrail emissions between two selected airports
-- Created a sharded key/value store with concurrency support that is fault tolerant to network drops/delays/reorders
+- Created a sharded key/value store with concurrent multithreading that is fault tolerant to network drops/delays/reorders
 
 ## Resume
 [Resume](assets/resume.pdf)
